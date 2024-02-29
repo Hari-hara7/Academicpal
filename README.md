@@ -1,4 +1,6 @@
 # AcademicPal
+<br>
+visit website https://hari-hara7.github.io/Academicpal/
 Welcome to AcademicPal – Your one-stop solution for academic resources and skill development!
 
 Purpose
